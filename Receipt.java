@@ -3,6 +3,11 @@ import java.util.ArrayList;
 class Receipt {
 	// Item[] items = new Item();
 	// System.out.println(items);
+
+
+	public void determineTaxRate() {
+
+	}
 }
 
  // ArrayList<Integer> weeklyTemperatures = new ArrayList<Integer>();
@@ -16,4 +21,3 @@ class Receipt {
 // 		'box of imported chocolates' => [1, 11.25]
 // 	}}
 
-	
